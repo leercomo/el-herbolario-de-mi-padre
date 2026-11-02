@@ -1,0 +1,12 @@
+==========================================
+MIRLA COLLECTION GENERATOR - HEALTH REPORT
+Date: 11/1/2026, 8:29:16 PM
+==========================================
+
+[SUCCESS] Build completed perfectly. No errors or warnings detected.
+
+==========================================
+[Mirla Plugin] Starting Generation & Validation...
+[Mirla Plugin] Copied OpenSeadragon icons to C:\Users\Edunext\Documents\Publii\sites\el-herbolario-de-mi-padre\preview\media\plugins\mirla\osd_icons
+[Mirla Plugin] Loaded Main Protocol Schema.
+[Mirla Plugin] Page Generation: Wrote 40 individual item pages to the /item/ directory.

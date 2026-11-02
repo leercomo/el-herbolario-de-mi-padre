@@ -1,0 +1,642 @@
+{
+  "protocol": {
+    "pid": {
+      "type": "pid",
+      "description": "Identificador único"
+    },
+    "label": {
+      "type": "label",
+      "description": "Nombre tradicional de la planta"
+    },
+    "nombre_científico": {
+      "type": "text",
+      "description": "Nombre científico de la planta"
+    },
+    "uso_medicinal": {
+      "type": "text",
+      "description": "Uso medicinal de la planta descrito en forma oral"
+    },
+    "categoria_uso": {
+      "type": "text",
+      "description": "Categoría de uso medicinal"
+    },
+    "modo_preparación": {
+      "type": "text",
+      "description": "Modo de preparación de la planta para obtener sus usos medicinales"
+    },
+    "categoria_preparacion": {
+      "type": "text",
+      "description": "Categorías de modo de preparación de la plata"
+    },
+    "parte_aprovechable": {
+      "type": "text",
+      "description": "Parte de la planta que se puede aprovechar para uso medicinal"
+    },
+    "clima": {
+      "type": "text",
+      "description": "Clima en que se cultiva esa planta."
+    }
+  },
+  "items": [
+    {
+      "pid": "OBJ-001",
+      "label": "Flor de maracuya",
+      "nombre_científico": "Passiflora edulis f. flavicarpa",
+      "uso_medicinal": "Relejante. Reducción de tensión alta.",
+      "categoria_uso": "nervios y sueño, corazón y circulación",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "flor",
+      "clima": "Cálido (0–1.300 msnm aprox.)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-001.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-001_thumb.webp"
+    },
+    {
+      "pid": "OBJ-002",
+      "label": "Dormilona",
+      "nombre_científico": "Mimosa pudica",
+      "uso_medicinal": "Manejo del insomnio. Relajante. Alivio de calambres. Desinflamatorio",
+      "categoria_uso": "nervios y sueño, huesos articulaciones y músculos, dolor e inflamación",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja, raíz",
+      "clima": "Cálido",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-002.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-002_thumb.webp"
+    },
+    {
+      "pid": "OBJ-003",
+      "label": "Comida de culebra",
+      "nombre_científico": "Momordica charantia",
+      "uso_medicinal": "Reducir niveles de azúcar en sangre. Mejorar funcionamiento del páncreas. Reducir quistes en la matriz. Infecciones del tracto urinario. Funcionamiento de la próstata.",
+      "categoria_uso": "diabetes y azúcar, salud reproductiva, riñones y vías urinarias",
+      "modo_preparación": "Infusiones. Ingerido (fruta)",
+      "categoria_preparacion": "infusión, ingerido natural",
+      "parte_aprovechable": "fruto, hoja",
+      "clima": "Cálido",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-003.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-003_thumb.webp"
+    },
+    {
+      "pid": "OBJ-004",
+      "label": "Uchuva",
+      "nombre_científico": "Physalis peruviana",
+      "uso_medicinal": "Combatir la diabetes. Limpiar riñones. Proteger la vista. Reducir cataratas",
+      "categoria_uso": "diabetes y azúcar, riñones y vías urinarias, vista",
+      "modo_preparación": "Ingerido (fruta)",
+      "categoria_preparacion": "ingerido",
+      "parte_aprovechable": "fruto",
+      "clima": "Frío moderado (1.600–2.800 msnm)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-004.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-004_thumb.webp"
+    },
+    {
+      "pid": "OBJ-005",
+      "label": "Hojas de guanábana",
+      "nombre_científico": "Annona muricata",
+      "uso_medicinal": "Mejorar el sistema inmunológico en procesos de tratamientos de cáncer.",
+      "categoria_uso": "cáncer e inmunidad",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja",
+      "clima": "Cálido (0–1.000 msnm aprox.)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-005.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-005_thumb.webp"
+    },
+    {
+      "pid": "OBJ-006",
+      "label": "Bledo / Amaranto",
+      "nombre_científico": "Amaranthus spp.",
+      "uso_medicinal": "Fuente de energía. Fuentes de vitamina A, C, calcio, hierro y magnesio",
+      "categoria_uso": "nutrición y energia",
+      "modo_preparación": "Ingerido (guisado, harina de la semilla)",
+      "categoria_preparacion": "ingerido cocinado, harina",
+      "parte_aprovechable": "hoja, semilla, raiz",
+      "clima": "Cálido a templado",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-006.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-006_thumb.webp"
+    },
+    {
+      "pid": "OBJ-008",
+      "label": "Tripa de pollo",
+      "nombre_científico": "Euphorbia hirta",
+      "uso_medicinal": "Secar verrugas. Matar hongos",
+      "categoria_uso": "piel cabello y heridas, infecciones y parásitos",
+      "modo_preparación": "Deslechar",
+      "categoria_preparacion": "aplicacion_de_latex",
+      "parte_aprovechable": "tallo",
+      "clima": "Cálido a templado (0–2.800 msnm)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-008.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-008_thumb.webp"
+    },
+    {
+      "pid": "OBJ-009",
+      "label": "Oregano orejudo",
+      "nombre_científico": "Plectranthus amboinicus",
+      "uso_medicinal": "Antiséptico. Antigripal",
+      "categoria_uso": "infecciones y parásitos, sistema respiratorio",
+      "modo_preparación": "Ingerido (polvo, natural)",
+      "categoria_preparacion": "harina, ingerido",
+      "parte_aprovechable": "hoja",
+      "clima": "Templado a frío",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-009.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-009_thumb.webp"
+    },
+    {
+      "pid": "OBJ-010",
+      "label": "Hojas de guayaba",
+      "nombre_científico": "Psidium guajava",
+      "uso_medicinal": "Combatir diabetes. Curar hígado graso. Mejorar la vista",
+      "categoria_uso": "diabetes y azúcar,  hígado, vista",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja",
+      "clima": "Cálido a templado (0–2.000 msnm aprox.)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-010/Folhas_de_goiabeira_(em_tupi_arasagûasu,_'araçá_grande),_Psidium_guajava.webp"
+      ],
+      "thumb": null
+    },
+    {
+      "pid": "OBJ-011",
+      "label": "Hojas de Mango",
+      "nombre_científico": "Mangifera indica",
+      "uso_medicinal": "Mejorar funcionamiento del corazón",
+      "categoria_uso": "corazón y circulación",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja",
+      "clima": "Cálido (0–1.000 msnm aprox.)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-011.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-011_thumb.webp"
+    },
+    {
+      "pid": "OBJ-012",
+      "label": "Tamarindo",
+      "nombre_científico": "Tamarindus indica",
+      "uso_medicinal": "Combatir diabetes",
+      "categoria_uso": "diabetes y azúcar",
+      "modo_preparación": "Jugo",
+      "categoria_preparacion": "jugo",
+      "parte_aprovechable": "fruto",
+      "clima": "Cálido (0–1.000 msnm aprox.)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-012.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-012_thumb.webp"
+    },
+    {
+      "pid": "OBJ-013",
+      "label": "Cordoncillo",
+      "nombre_científico": "Piper aduncum",
+      "uso_medicinal": "Cicatrizante. Desinfectante. Manejo de la gastritis",
+      "categoria_uso": "piel cabello y heridas, infecciones y parásitos, sistema digestivo",
+      "modo_preparación": "Infusiones. Emplasma (calentar, amacerar, aplicar)",
+      "categoria_preparacion": "infusión, emplasto caliente",
+      "parte_aprovechable": "hoja, tallo, flor",
+      "clima": "Cálido a templado",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-013.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-013_thumb.webp"
+    },
+    {
+      "pid": "OBJ-014",
+      "label": "Escobilla",
+      "nombre_científico": "Scoparia dulcis",
+      "uso_medicinal": "Limpiar lo riñones. Sanar picaduras. Calma la tos. Aliviar la gripa",
+      "categoria_uso": "riñones y vías urinarias,  piel cabello y heridas, sistema respiratorio",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja, tallo, flor",
+      "clima": "Cálido a templado",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-014.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-014_thumb.webp"
+    },
+    {
+      "pid": "OBJ-015",
+      "label": "Sanginaria",
+      "nombre_científico": "Iresine herbstii",
+      "uso_medicinal": "Abortiva. Aliviar picazón. Antiseptica",
+      "categoria_uso": "salud reproductiva, piel cabello y heridas, infecciones y parásitos",
+      "modo_preparación": "Infusiones. Emplasma (calentar, amacerar, aplicar)",
+      "categoria_preparacion": "infusión, emplasto caliente",
+      "parte_aprovechable": "hoja, flor",
+      "clima": "Templado a frío (1.500–2.700 msnm)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-015.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-015_thumb.webp"
+    },
+    {
+      "pid": "OBJ-016",
+      "label": "Agua del bastago del plátano",
+      "nombre_científico": "Musa × paradisiaca",
+      "uso_medicinal": "Aliviar gastritis. Limpiar riñones. Mejorar sistema sistema digestivo",
+      "categoria_uso": "sistema digestivo, riñones y vías urinarias",
+      "modo_preparación": "Ingerir el agua que se acumula en el bástago",
+      "categoria_preparacion": "ingerido",
+      "parte_aprovechable": "agua vegetal",
+      "clima": "Cálido a templado (0–2.000 msnm aprox.)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-016.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-016_thumb.webp"
+    },
+    {
+      "pid": "OBJ-017",
+      "label": "Paico",
+      "nombre_científico": "Dysphania ambrosioides",
+      "uso_medicinal": "Desparasitante",
+      "categoria_uso": "infecciones y parásitos",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "tallo, hoja",
+      "clima": "Cálido a frío (amplio rango)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-017.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-017_thumb.webp"
+    },
+    {
+      "pid": "OBJ-018",
+      "label": "Mata ratón",
+      "nombre_científico": "Gliricidia sepium",
+      "uso_medicinal": "Baja la fiebre",
+      "categoria_uso": "fiebre",
+      "modo_preparación": "Emplasma ( sin calentar, amacerar, aplicar)",
+      "categoria_preparacion": "emplasto frio",
+      "parte_aprovechable": "hoja",
+      "clima": "Cálido",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-018.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-018_thumb.webp"
+    },
+    {
+      "pid": "OBJ-019",
+      "label": "Moringa",
+      "nombre_científico": "Moringa oleifera",
+      "uso_medicinal": "Vitaminas. Relajante. Energizante",
+      "categoria_uso": "nutrición y energia, nervios y sueño",
+      "modo_preparación": "Infusiones. Ingerido (polvo, natural)",
+      "categoria_preparacion": "infusión, harina, ingerido",
+      "parte_aprovechable": "hoja, flor",
+      "clima": "Cálido",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-019.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-019_thumb.webp"
+    },
+    {
+      "pid": "OBJ-020",
+      "label": "Hojas de papaya",
+      "nombre_científico": "Carica papaya",
+      "uso_medicinal": "Curar la diabetes",
+      "categoria_uso": "diabetes y azúcar",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja",
+      "clima": "Cálido",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-020.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-020_thumb.webp"
+    },
+    {
+      "pid": "OBJ-021",
+      "label": "Bellota de plátano",
+      "nombre_científico": "Musa × paradisiaca",
+      "uso_medicinal": "Dolor de articulaciones",
+      "categoria_uso": "huesos articulaciones y músculos",
+      "modo_preparación": "Ingerido",
+      "categoria_preparacion": "ingerido",
+      "parte_aprovechable": "inflorescencia",
+      "clima": "Cálido a templado (0–2.000 msnm aprox.)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-021.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-021_thumb.webp"
+    },
+    {
+      "pid": "OBJ-022",
+      "label": "Calendula",
+      "nombre_científico": "Calendula officinalis",
+      "uso_medicinal": "Cura las heridas. Cicatrizante",
+      "categoria_uso": "piel cabello y heridas",
+      "modo_preparación": "Infusiones. Baños",
+      "categoria_preparacion": "infusión, baño",
+      "parte_aprovechable": "flor, hoja,  tallo, raíz",
+      "clima": "Templado a frío",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-022.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-022_thumb.webp"
+    },
+    {
+      "pid": "OBJ-023",
+      "label": "Llantel",
+      "nombre_científico": "Plantago major",
+      "uso_medicinal": "Alivia y cura dolores lumbares. Limpia el intestino. Cura las úlceras.",
+      "categoria_uso": "huesos articulaciones y músculos, sistema digestivo",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "flor, hoja, tallo, raiz",
+      "clima": "Templado a frío (amplio rango)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-023.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-023_thumb.webp"
+    },
+    {
+      "pid": "OBJ-024",
+      "label": "Verbena",
+      "nombre_científico": "Verbena litoralis",
+      "uso_medicinal": "Limpia el sistema de impurezas. Baja la fiebre",
+      "categoria_uso": "depuración, fiebre",
+      "modo_preparación": "Infusiones. Emplasma (sin calentar, amacerar, aplicar)",
+      "categoria_preparacion": "infusión, emplasto frio",
+      "parte_aprovechable": "hoja, tallo, flor",
+      "clima": "Templado a frío",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-024.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-024_thumb.webp"
+    },
+    {
+      "pid": "OBJ-025",
+      "label": "Pepa de aguacate",
+      "nombre_científico": "Persea americana",
+      "uso_medicinal": "Reduce la cantidad de azúcar en sangre. Baja niveles de colesterol. Mejora presión arterial",
+      "categoria_uso": "diabetes y azúcar, corazón y circulación",
+      "modo_preparación": "Ralladura",
+      "categoria_preparacion": "ralladura",
+      "parte_aprovechable": "semilla",
+      "clima": "Cálido a templado (0–2.500 msnm aprox.)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-025.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-025_thumb.webp"
+    },
+    {
+      "pid": "OBJ-026",
+      "label": "Semilla de guanábana",
+      "nombre_científico": "Annona muricata",
+      "uso_medicinal": "Cura virus. Medicamento contra el cáncer",
+      "categoria_uso": "infecciones y parásitos, cáncer e inmunidad",
+      "modo_preparación": "Ingerir polvo (Secar, tostar, moler)",
+      "categoria_preparacion": "harina",
+      "parte_aprovechable": "semilla",
+      "clima": "Cálido (0–1.000 msnm aprox.)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-026.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-026_thumb.webp"
+    },
+    {
+      "pid": "OBJ-027",
+      "label": "Yerbamora",
+      "nombre_científico": "Solanum americanum",
+      "uso_medicinal": "Seca la culebrilla. Ayuda en procesos de cicatrización. Analgésico. Baja fiebre",
+      "categoria_uso": "piel cabello y heridas, dolor e inflamación, fiebre",
+      "modo_preparación": "Infusiones. Emplama (calentar, amacerar, aplicar)",
+      "categoria_preparacion": "infusión, emplasto caliente",
+      "parte_aprovechable": "hoja, tallo, fruto",
+      "clima": "Cálido a frío (amplio rango)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-027.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-027_thumb.webp"
+    },
+    {
+      "pid": "OBJ-028",
+      "label": "Verdolaga",
+      "nombre_científico": "Portulaca oleracea",
+      "uso_medicinal": "Limpia la sangre. Desinflama la artritis. Aporta Omega3",
+      "categoria_uso": "depuración, huesos articulaciones y músculos, nutrición y energia",
+      "modo_preparación": "Infusiones. Emplasma. Ingerido",
+      "categoria_preparacion": "infusión, emplasto, ingerido",
+      "parte_aprovechable": "hoja, tallo, fruto",
+      "clima": "Cálido a templado",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-028.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-028_thumb.webp"
+    },
+    {
+      "pid": "OBJ-029",
+      "label": "Limonaria",
+      "nombre_científico": "Cymbopogon citratus",
+      "uso_medicinal": "Reduce triglicéridos. Controla la presión arterial. Relajante",
+      "categoria_uso": "corazón y circulación, nervios y sueño",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja, tallo",
+      "clima": "Cálido a templado",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-029.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-029_thumb.webp"
+    },
+    {
+      "pid": "OBJ-030",
+      "label": "Iguerilla",
+      "nombre_científico": "Ricinus communis",
+      "uso_medicinal": "Desinflamatorio. Analgésico.",
+      "categoria_uso": "dolor e inflamación",
+      "modo_preparación": "Infusiones. Emplasma. Extraer el aceite de resina del fruto",
+      "categoria_preparacion": "infusión, emplasto, aceite extraido",
+      "parte_aprovechable": "hoja, tallo, semilla",
+      "clima": "Cálido a templado",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-030.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-030_thumb.webp"
+    },
+    {
+      "pid": "OBJ-031",
+      "label": "Albaca",
+      "nombre_científico": "Ocimum basilicum",
+      "uso_medicinal": "Alivia el estrés",
+      "categoria_uso": "nervios y sueño",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja, flor",
+      "clima": "Cálido a templado",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-031.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-031_thumb.webp"
+    },
+    {
+      "pid": "OBJ-032",
+      "label": "Prontoalivio",
+      "nombre_científico": "Lippia alba",
+      "uso_medicinal": "Cura todo tipo de malestares como dolor de cabeza o malestar estomacal. Relajante",
+      "categoria_uso": "dolor e inflamación, sistema digestivo, nervios y sueño",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja",
+      "clima": "Cálido a templado",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-032.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-032_thumb.webp"
+    },
+    {
+      "pid": "OBJ-033",
+      "label": "Casco de vaca",
+      "nombre_científico": "Bauhinia picta",
+      "uso_medicinal": "Cura la diabetes. Baja nivel de azúcar en sangre.",
+      "categoria_uso": "diabetes y azúcar",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja",
+      "clima": "Cálido",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-033.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-033_thumb.webp"
+    },
+    {
+      "pid": "OBJ-034",
+      "label": "Hoja de yuca",
+      "nombre_científico": "Manihot esculenta",
+      "uso_medicinal": "RIca en hierro. Combate el cansancio",
+      "categoria_uso": "nutrición y energia",
+      "modo_preparación": "Infusiones, ingerido",
+      "categoria_preparacion": "infusión, ingerido",
+      "parte_aprovechable": "hoja",
+      "clima": "Cálido",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-034.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-034_thumb.webp"
+    },
+    {
+      "pid": "OBJ-035",
+      "label": "Altamisa",
+      "nombre_científico": "Ambrosia peruviana",
+      "uso_medicinal": "Limpia el hígado. Alivia la malaria",
+      "categoria_uso": "hígado, infecciones y parásitos",
+      "modo_preparación": "Infusiones. Emplasma (calentar, amacerar, aplicar)",
+      "categoria_preparacion": "infusión, emplasto caliente",
+      "parte_aprovechable": "hoja, flor",
+      "clima": "Cálido a frío (10–3.000 msnm)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-035.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-035_thumb.webp"
+    },
+    {
+      "pid": "OBJ-036",
+      "label": "Anamú",
+      "nombre_científico": "Petiveria alliacea",
+      "uso_medicinal": "Anticancerígeno. Fortalece el sistema inmune.",
+      "categoria_uso": "cáncer e inmunidad",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja, flor",
+      "clima": "Cálido",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-036.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-036_thumb.webp"
+    },
+    {
+      "pid": "OBJ-037",
+      "label": "Hojas de tomate",
+      "nombre_científico": "Solanum lycopersicum",
+      "uso_medicinal": "Alivia la migraña y cefalea. Combate la artritis",
+      "categoria_uso": "dolor e inflamación, huesos articulaciones y músculos",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja",
+      "clima": "Templado",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-037.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-037_thumb.webp"
+    },
+    {
+      "pid": "OBJ-038",
+      "label": "Amarrabollo",
+      "nombre_científico": "Meriania nobilis",
+      "uso_medicinal": "Cura la diarrea",
+      "categoria_uso": "sistema digestivo",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja",
+      "clima": "Frío",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-038.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-038_thumb.webp"
+    },
+    {
+      "pid": "OBJ-039",
+      "label": "Mala madre",
+      "nombre_científico": "Kalanchoe pinnata",
+      "uso_medicinal": "Anticancerígena",
+      "categoria_uso": "cáncer e inmunidad",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja",
+      "clima": "Cálido a frío (150–2.700 msnm)",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-039.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-039_thumb.webp"
+    },
+    {
+      "pid": "OBJ-040",
+      "label": "Gualanday",
+      "nombre_científico": "Jacaranda caucana",
+      "uso_medicinal": "Disuelve cálculo renales",
+      "categoria_uso": "riñones y vías urinarias",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja",
+      "clima": "Cálido a templado",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-040.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-040_thumb.webp"
+    },
+    {
+      "pid": "OBJ-041",
+      "label": "Romero",
+      "nombre_científico": "Salvia rosmarinus",
+      "uso_medicinal": "Alivia estados nerviosos. Alivia malestares estomacales. Evitar la caída del cabello.",
+      "categoria_uso": "nervios y sueño, sistema digestivo, piel cabello y heridas",
+      "modo_preparación": "Infusiones",
+      "categoria_preparacion": "infusión",
+      "parte_aprovechable": "hoja",
+      "clima": "Templado a frío",
+      "images": [
+        "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-041.webp"
+      ],
+      "thumb": "https://leercomo.github.io/el-herbolario-de-mi-padre/media/files/collection/images/OBJ-041_thumb.webp"
+    }
+  ]
+}

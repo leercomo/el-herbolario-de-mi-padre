@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>El herbolario de mi padre</title>
+    <link href="https://leercomo.github.io/el-herbolario-de-mi-padre/feed.xml" rel="self" />
+    <link href="https://leercomo.github.io/el-herbolario-de-mi-padre" />
+    <updated>1969-12-31T19:00:00-05:00</updated>
+    <author>
+        <name>Ana Paula Gómez</name>
+    </author>
+    <id>https://leercomo.github.io/el-herbolario-de-mi-padre</id>
+
+</feed>

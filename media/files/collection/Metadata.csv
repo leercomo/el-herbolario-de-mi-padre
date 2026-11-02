@@ -1,0 +1,41 @@
+﻿pid,label,nombre_científico,uso_medicinal,categoria_uso,modo_preparación,categoria_preparacion,parte_aprovechable,clima
+OBJ-001,Flor de maracuya,Passiflora edulis f. flavicarpa,Relejante. Reducción de tensión alta.,"nervios y sueño, corazón y circulación",Infusiones,infusión,flor,Cálido (0–1.300 msnm aprox.)
+OBJ-002,Dormilona,Mimosa pudica,Manejo del insomnio. Relajante. Alivio de calambres. Desinflamatorio,"nervios y sueño, huesos articulaciones y músculos, dolor e inflamación",Infusiones,infusión,"hoja, raíz",Cálido
+OBJ-003,Comida de culebra,Momordica charantia,Reducir niveles de azúcar en sangre. Mejorar funcionamiento del páncreas. Reducir quistes en la matriz. Infecciones del tracto urinario. Funcionamiento de la próstata.,"diabetes y azúcar, salud reproductiva, riñones y vías urinarias",Infusiones. Ingerido (fruta),"infusión, ingerido natural","fruto, hoja",Cálido
+OBJ-004,Uchuva,Physalis peruviana,Combatir la diabetes. Limpiar riñones. Proteger la vista. Reducir cataratas,"diabetes y azúcar, riñones y vías urinarias, vista",Ingerido (fruta),ingerido,fruto,Frío moderado (1.600–2.800 msnm)
+OBJ-005,Hojas de guanábana,Annona muricata,Mejorar el sistema inmunológico en procesos de tratamientos de cáncer.,cáncer e inmunidad,Infusiones,infusión,hoja,Cálido (0–1.000 msnm aprox.)
+OBJ-006,Bledo / Amaranto,Amaranthus spp.,"Fuente de energía. Fuentes de vitamina A, C, calcio, hierro y magnesio",nutrición y energia,"Ingerido (guisado, harina de la semilla)","ingerido cocinado, harina","hoja, semilla, raiz",Cálido a templado
+OBJ-008,Tripa de pollo,Euphorbia hirta,Secar verrugas. Matar hongos,"piel cabello y heridas, infecciones y parásitos",Deslechar,aplicacion_de_latex,tallo,Cálido a templado (0–2.800 msnm)
+OBJ-009,Oregano orejudo,Plectranthus amboinicus,Antiséptico. Antigripal,"infecciones y parásitos, sistema respiratorio","Ingerido (polvo, natural)","harina, ingerido",hoja,Templado a frío
+OBJ-010,Hojas de guayaba,Psidium guajava,Combatir diabetes. Curar hígado graso. Mejorar la vista,"diabetes y azúcar,  hígado, vista",Infusiones,infusión,hoja,Cálido a templado (0–2.000 msnm aprox.)
+OBJ-011,Hojas de Mango,Mangifera indica,Mejorar funcionamiento del corazón,corazón y circulación,Infusiones,infusión,hoja,Cálido (0–1.000 msnm aprox.)
+OBJ-012,Tamarindo,Tamarindus indica,Combatir diabetes,diabetes y azúcar,Jugo,jugo,fruto,Cálido (0–1.000 msnm aprox.)
+OBJ-013,Cordoncillo,Piper aduncum,Cicatrizante. Desinfectante. Manejo de la gastritis,"piel cabello y heridas, infecciones y parásitos, sistema digestivo","Infusiones. Emplasma (calentar, amacerar, aplicar)","infusión, emplasto caliente","hoja, tallo, flor",Cálido a templado
+OBJ-014,Escobilla,Scoparia dulcis,Limpiar lo riñones. Sanar picaduras. Calma la tos. Aliviar la gripa,"riñones y vías urinarias,  piel cabello y heridas, sistema respiratorio",Infusiones,infusión,"hoja, tallo, flor",Cálido a templado
+OBJ-015,Sanginaria,Iresine herbstii,Abortiva. Aliviar picazón. Antiseptica,"salud reproductiva, piel cabello y heridas, infecciones y parásitos","Infusiones. Emplasma (calentar, amacerar, aplicar)","infusión, emplasto caliente","hoja, flor",Templado a frío (1.500–2.700 msnm)
+OBJ-016,Agua del bastago del plátano,Musa × paradisiaca,Aliviar gastritis. Limpiar riñones. Mejorar sistema sistema digestivo,"sistema digestivo, riñones y vías urinarias",Ingerir el agua que se acumula en el bástago,ingerido,agua vegetal,Cálido a templado (0–2.000 msnm aprox.)
+OBJ-017,Paico,Dysphania ambrosioides,Desparasitante,infecciones y parásitos,Infusiones,infusión,"tallo, hoja",Cálido a frío (amplio rango)
+OBJ-018,Mata ratón,Gliricidia sepium,Baja la fiebre,fiebre,"Emplasma ( sin calentar, amacerar, aplicar)",emplasto frio,hoja,Cálido
+OBJ-019,Moringa,Moringa oleifera,Vitaminas. Relajante. Energizante,"nutrición y energia, nervios y sueño","Infusiones. Ingerido (polvo, natural)","infusión, harina, ingerido","hoja, flor",Cálido
+OBJ-020,Hojas de papaya,Carica papaya,Curar la diabetes,diabetes y azúcar,Infusiones,infusión,hoja,Cálido
+OBJ-021,Bellota de plátano,Musa × paradisiaca,Dolor de articulaciones,huesos articulaciones y músculos,Ingerido,ingerido,inflorescencia,Cálido a templado (0–2.000 msnm aprox.)
+OBJ-022,Calendula,Calendula officinalis,Cura las heridas. Cicatrizante,piel cabello y heridas,Infusiones. Baños,"infusión, baño","flor, hoja,  tallo, raíz",Templado a frío
+OBJ-023,Llantel,Plantago major,Alivia y cura dolores lumbares. Limpia el intestino. Cura las úlceras.,"huesos articulaciones y músculos, sistema digestivo",Infusiones,infusión,"flor, hoja, tallo, raiz",Templado a frío (amplio rango)
+OBJ-024,Verbena,Verbena litoralis,Limpia el sistema de impurezas. Baja la fiebre,"depuración, fiebre","Infusiones. Emplasma (sin calentar, amacerar, aplicar)","infusión, emplasto frio","hoja, tallo, flor",Templado a frío
+OBJ-025,Pepa de aguacate,Persea americana,Reduce la cantidad de azúcar en sangre. Baja niveles de colesterol. Mejora presión arterial,"diabetes y azúcar, corazón y circulación",Ralladura,ralladura,semilla,Cálido a templado (0–2.500 msnm aprox.)
+OBJ-026,Semilla de guanábana,Annona muricata,Cura virus. Medicamento contra el cáncer,"infecciones y parásitos, cáncer e inmunidad","Ingerir polvo (Secar, tostar, moler)",harina,semilla,Cálido (0–1.000 msnm aprox.)
+OBJ-027,Yerbamora,Solanum americanum,Seca la culebrilla. Ayuda en procesos de cicatrización. Analgésico. Baja fiebre,"piel cabello y heridas, dolor e inflamación, fiebre","Infusiones. Emplama (calentar, amacerar, aplicar)","infusión, emplasto caliente","hoja, tallo, fruto",Cálido a frío (amplio rango)
+OBJ-028,Verdolaga,Portulaca oleracea,Limpia la sangre. Desinflama la artritis. Aporta Omega3,"depuración, huesos articulaciones y músculos, nutrición y energia",Infusiones. Emplasma. Ingerido,"infusión, emplasto, ingerido","hoja, tallo, fruto",Cálido a templado
+OBJ-029,Limonaria,Cymbopogon citratus,Reduce triglicéridos. Controla la presión arterial. Relajante,"corazón y circulación, nervios y sueño",Infusiones,infusión,"hoja, tallo",Cálido a templado
+OBJ-030,Iguerilla,Ricinus communis,Desinflamatorio. Analgésico.,dolor e inflamación,Infusiones. Emplasma. Extraer el aceite de resina del fruto,"infusión, emplasto, aceite extraido","hoja, tallo, semilla",Cálido a templado
+OBJ-031,Albaca,Ocimum basilicum,Alivia el estrés,nervios y sueño,Infusiones,infusión,"hoja, flor",Cálido a templado
+OBJ-032,Prontoalivio,Lippia alba,Cura todo tipo de malestares como dolor de cabeza o malestar estomacal. Relajante,"dolor e inflamación, sistema digestivo, nervios y sueño",Infusiones,infusión,hoja,Cálido a templado
+OBJ-033,Casco de vaca,Bauhinia picta,Cura la diabetes. Baja nivel de azúcar en sangre.,diabetes y azúcar,Infusiones,infusión,hoja,Cálido
+OBJ-034,Hoja de yuca,Manihot esculenta,RIca en hierro. Combate el cansancio,nutrición y energia,"Infusiones, ingerido","infusión, ingerido",hoja,Cálido
+OBJ-035,Altamisa,Ambrosia peruviana,Limpia el hígado. Alivia la malaria,"hígado, infecciones y parásitos","Infusiones. Emplasma (calentar, amacerar, aplicar)","infusión, emplasto caliente","hoja, flor",Cálido a frío (10–3.000 msnm)
+OBJ-036,Anamú,Petiveria alliacea,Anticancerígeno. Fortalece el sistema inmune.,cáncer e inmunidad,Infusiones,infusión,"hoja, flor",Cálido
+OBJ-037,Hojas de tomate,Solanum lycopersicum,Alivia la migraña y cefalea. Combate la artritis,"dolor e inflamación, huesos articulaciones y músculos",Infusiones,infusión,hoja,Templado
+OBJ-038,Amarrabollo,Meriania nobilis,Cura la diarrea,sistema digestivo,Infusiones,infusión,hoja,Frío
+OBJ-039,Mala madre,Kalanchoe pinnata,Anticancerígena,cáncer e inmunidad,Infusiones,infusión,hoja,Cálido a frío (150–2.700 msnm)
+OBJ-040,Gualanday,Jacaranda caucana,Disuelve cálculo renales,riñones y vías urinarias,Infusiones,infusión,hoja,Cálido a templado
+OBJ-041,Romero,Salvia rosmarinus,Alivia estados nerviosos. Alivia malestares estomacales. Evitar la caída del cabello.,"nervios y sueño, sistema digestivo, piel cabello y heridas",Infusiones,infusión,hoja,Templado a frío

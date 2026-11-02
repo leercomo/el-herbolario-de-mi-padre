@@ -1,0 +1,10 @@
+﻿Attribute,Type,Description
+pid,pid,Identificador único
+label,label,Nombre tradicional de la planta
+nombre_científico,text,Nombre científico de la planta
+uso_medicinal,text,Uso medicinal de la planta descrito en forma oral
+categoria_uso,text,Categoría de uso medicinal
+modo_preparación,text,Modo de preparación de la planta para obtener sus usos medicinales 
+categoria_preparacion,text,Categorías de modo de preparación de la plata
+parte_aprovechable,text,Parte de la planta que se puede aprovechar para uso medicinal
+clima,text,Clima en que se cultiva esa planta.
